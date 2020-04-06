@@ -1,0 +1,35 @@
+Про весну
+
+Уже в дітей порожевіли личка,
+Уже дощем надихалась рілля.
+І скрізь трава,
+Травиченька,
+Травичка!
+І сонце сипле квіти,
+як з бриля!
+
+                      Ліна Костенко
+                      
+-----------------------------------------
+
+This is the end.
+Hold your breath and count to ten.
+Feel the Earth move and then
+Hear my heart burst again.
+For this is the end.
+I’ve drowned and dreamt this moment
+So overdue… I owe them.
+Swept away, I’m stolen.
+Let the sky fall.
+When it crumbles
+We will stand tall,
+Face it all together.
+------------------------------------------
+
+#include<iostream>
+int main() 
+{
+  std::cout<<"Hello World!";
+  system("PAUSE");
+  return 0;
+}
